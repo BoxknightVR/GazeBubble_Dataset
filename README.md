@@ -14,7 +14,7 @@ There are 15 folders, each folder includes the same folder and name, we name eac
 The data includes participants’ eye positions and direction vectors, head positions and direction vectors, the name of the triggered target (or ’None’ if no target was triggered), task target name and position, and experimental parameters such as density, target depth, and target size.
 There is an example of our dataset parameter.
 
-| Trigger_Name           | Head_Position        | Head_Direction       | Eye_Position         | Eye_Direction        | Target_Name            | Target_Distance | Target_Position     | Target_Size |  
+| Trigger_Name           | Eye_Position         | Eye_Direction        | Head_Position        | Head_Direction       | Target_Name            | Target_Distance | Target_Position     | Target_Size |  
 |------------------------|----------------------|----------------------|----------------------|----------------------|------------------------|-----------------|---------------------|-------------|
 | Far_Peripheral1314_#36 | (-0.04, 7.58, -0.21) | (-0.65, -0.69, 0.42) | (-0.04, 7.58, -0.21) | (-0.49, -0.59, 0.64) | Far_Peripheral1415_#57 | 1               | (-0.70, 8.35, 0.09) | 1           |
 
